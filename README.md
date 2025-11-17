@@ -1,5 +1,4 @@
 
-```md
 # 🏥 Hospital MCP Server  
 Secure PostgreSQL Access via Model Context Protocol (MCP)  
 **Claude Desktop acts as the MCP client**
@@ -221,3 +220,4 @@ Claude Desktop communicates with your DB **only through your safe MCP tools**, n
 ```
 
 ---
+
