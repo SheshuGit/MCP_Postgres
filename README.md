@@ -215,9 +215,5 @@ You now have:
 
 Claude Desktop communicates with your DB **only through your safe MCP tools**, never accessing raw tables directly.
 
----
 
-```
-
----
 
